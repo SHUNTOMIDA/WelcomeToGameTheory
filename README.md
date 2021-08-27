@@ -9,7 +9,8 @@
 Visual Studio 2019
 
 # 使い方
-Visual Studioを起動して、
+Visual Studioで起動して、ビルドしてもらい。
+vin > debug > Test_20210806_WelcomeToGameTheory.exeを起動してください。
 
 # 注意
 LinuxとMacOS環境下ではテストしていないです。
